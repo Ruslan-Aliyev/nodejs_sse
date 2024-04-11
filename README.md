@@ -2,6 +2,7 @@
 - https://www.digitalocean.com/community/tutorials/nodejs-server-sent-events-build-realtime-app
 - https://www.youtube.com/watch?v=OGlLOeWVO-8
 - https://stackoverflow.com/questions/28673371/eventsource-onmessage-is-not-working-where-onopen-and-onerror-works-proper
+- https://stackoverflow.com/questions/23914374/server-sent-event-vs-web-sockets/25547739#25547739
 
 ```
 node server.js
